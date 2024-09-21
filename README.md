@@ -35,4 +35,4 @@ In this task, we will implement Principal Component Analysis (PCA) to identify e
 - seaborn
 
 ## Author
-Developed for Highridge Construction Company by Calistus Chukwuebuka Ndubuisi.
+Developed for Anderson Cancer Center Company by Calistus Chukwuebuka Ndubuisi.
