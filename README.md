@@ -15,7 +15,7 @@ In this task, we will implement Principal Component Analysis (PCA) to identify e
 1. Clone the repository or download the ZIP file.
 2. Install the required libraries using the following command:
 
-3. Run the `pca_analysis.py` script to see the PCA implementation and bonus logistic regression.
+3. Run the `pca_analysis.ipynb` script to see the PCA implementation and bonus logistic regression.
 
 ### Instructions:
 - The `pca_analysis.ipynb` script implements PCA and visualizes the results with 2 principal components.
