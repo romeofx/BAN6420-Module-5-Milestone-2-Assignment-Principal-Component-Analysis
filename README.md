@@ -26,13 +26,12 @@ In this task, we will implement Principal Component Analysis (PCA) to identify e
 - `README.md`: This file, providing an overview and instructions for running the project.
 
 ### Requirements:
-- Python 3.x
-- Libraries:
-- pandas
-- numpy
-- scikit-learn
-- matplotlib
-- seaborn
+- `Python 3.x`
+- `pandas`
+- `numpy`
+- `scikit-learn`
+- `matplotlib`
+- `seaborn`
 
 ## Author
 Developed for Anderson Cancer Center by Calistus Chukwuebuka Ndubuisi.
