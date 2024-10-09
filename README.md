@@ -22,8 +22,8 @@ In this task, we will implement Principal Component Analysis (PCA) to identify e
 - The logistic regression is implemented to predict the cancer diagnosis.
 
 ### Files:
-- **pca_analysis.ipynb**: Contains the Python code for PCA and Logistic Regression.
-- **README.md**: This file, providing an overview and instructions for running the project.
+- `pca_analysis.ipynb`: Contains the Python code for PCA and Logistic Regression.
+- `README.md`: This file, providing an overview and instructions for running the project.
 
 ### Requirements:
 - Python 3.x
